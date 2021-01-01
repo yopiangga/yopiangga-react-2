@@ -7,7 +7,7 @@ import '../../assets/css/fonts.css';
 import '../../assets/js/aos/aos.css';
 import '../../assets/css/animate.min.css';
 
-import { FiSeacrh, FiUser, FiShoppingCart, FiSearch } from 'react-icons/fi';
+import { FiSearch, FiUser, FiShoppingCart } from 'react-icons/fi';
 
 import logo from '../../assets/images/logo.png';
 
